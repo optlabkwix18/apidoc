@@ -1,21 +1,18 @@
 /**
- * @api {get} /user/:id Request User information
+ * @api {get} /user/:id 회원가입에 필요한 ID이다.
  * @apiName GetUser
  * @apiGroup User
  *
- * @apiParam {Number} id Users unique ID.
+ * @apiParam {String} id Users unique ID.
  *
- * @apiSuccess {String} firstname Firstname of the User.
- * @apiSuccess {String} lastname  Lastname of the User.
  *
  * @apiSuccessExample Success-Response:
  *     HTTP/1.1 200 OK
  *     {
- *       "firstname": "John",
- *       "lastname": "Doe"
+ *       "id": "정가빈안녕"
  *     }
  *
- * @apiError UserNotFound The id of the User was not found.
+ * @apiError UserNotFound User ID를 찾을 수 없습니다.
  *
  * @apiErrorExample Error-Response:
  *     HTTP/1.1 404 Not Found
