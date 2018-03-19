@@ -1,0 +1,10 @@
+{
+  "name": "OPTLABKWIX18 API",
+  "description": "OPTLABKWIX18 API Docs",
+  "title": "API Docs",
+  "url" : "http://optlabkwix18.com",
+  "template": {
+  	"withCompare": false,
+  	"withGenerator": false
+  }
+}
