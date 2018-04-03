@@ -1,8 +1,8 @@
 {
-  "name": "OPTLABKWIX18 API",
-  "description": "OPTLABKWIX18 API Docs",
-  "title": "API Docs",
-  "url" : "http://optlabkwix18.com",
+  "name": "Twichu APIs",
+  "description": "User Customized Web Service Using Twitter",
+  "title": "Twichu APIs",
+  "url" : "http://example.com",
   "template": {
   	"withCompare": false,
   	"withGenerator": false
