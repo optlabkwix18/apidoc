@@ -1,7 +1,7 @@
 {
   "name": "Twichu APIs",
   "description": "User Customized Web Service Using Twitter",
-  "title": "Twichu APIs",
+  "title": "APIs",
   "url" : "http://example.com",
   "template": {
   	"withCompare": false,
