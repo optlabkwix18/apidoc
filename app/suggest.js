@@ -26,32 +26,46 @@ HTTP/1.1 304 Not Modified
 HTTP/1.1 200 OK
 [
   {
-    "user": {
-      "id_str": "62755629",
-      "name": "YOUNHA",
-      "screen_name": "younhaholic"
-    },
-    "keyword": "음식",
-    "created_at": "2018-03-21T15:14:25.000Z",
-    "id_str": "976477134641246208",
-    "text": "던킨이스말랍 #먹윤 #먹짤 #시청해주셔서감사합니다 https://t.co/tmQFG50IwN",
-    "retweet_count": 45,
-    "favorite_count": 108,
-    "lang": "ko"
+    "_id": "5b3be6428418550578dd677f",
+    "creatat": "2018-07-02T09:20:22.000Z",
+    "searchKeywordId": "5b3be5578418550578dd6778",
+    "searchKeyword": "잉글랜드",
+    "statusid": "1013713982861946880",
+    "tweet": "RT💕) 리트윗을 해주신 분께 7월 5일에 개봉하는 <잉글랜드 이즈 마인>을 예매해드려요😍 제가 사는 지역에서 상영한다면 한 분만, 그렇지 않다면 두 분을 뽑아드리려고 합니다! <잉글랜드 이즈 마인>을 보고… https://t.co/3v9QBisDlu",
+    "retweetnum": 122,
+    "favoritenum": 5,
+    "language": "ko",
+    "user_statusid": "826839030260125696",
+    "user_screenname": "E_G_Agggggggggg",
+    "user_name": "🌈💀🖤",
+    "user_tweetcount": 3124,
+    "user_favcount": 5530,
+    "user_following": 112,
+    "user_follower": 35,
+    "utfoffset": 0,
+    "cate_keyword": "영화",
+    "isAnalyzing": true
   },
   {
-    "user": {
-      "id_str": "1115674652",
-      "name": "XSFM",
-      "screen_name": "XSFM25"
-    },
-    "keyword": "정치",
-    "created_at": "2018-06-07T05:24:53.000Z",
-    "id_str": "1004595028679770112",
-    "text": "성공적으로, 부종학생회장, Justice League, 메롱- 난 구청장할거다, 과식투쟁, 요식업, 신체검사박물관, 사람이 살 곳...",
-    "retweet_count": 3,
-    "favorite_count": 2,
-    "lang": "ko"
+    "_id": "5b3c472b8418550578dd69d1",
+    "creatat": "2018-07-02T04:26:14.000Z",
+    "searchKeywordId":"5b3b73f08418550578dd6448",
+    "searchKeyword": "#KAI",
+    "statusid": "1013639962225332224",
+    "tweet": "개인적으로 제일 좋아하는 날 중 하루인 가요대제전 구사즈 얼빡으로,,❣\n\n#EXO #SEHUN #KAI #세훈 #종인 @weareoneEXO https://t.co/OBT4L24DCB",
+    "retweetnum": 769,
+    "favoritenum": 810,
+    "language": "ko",
+    "user_statusid": "875491895895445504",
+    "user_screenname": "Ciel_94s",
+    "user_name": "CIEL",
+    "user_tweetcount": 946,
+    "user_favcount": 187,
+    "user_following": 5,
+    "user_follower": 11355,
+    "utfoffset": 0,
+    "cate_keyword": "가요",
+    "isAnalyzing": true,
   }
 ]
 */
